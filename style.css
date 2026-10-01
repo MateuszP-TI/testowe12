@@ -6,53 +6,53 @@
 
 .glowny {
     display: flex;
-    height: 600px;
-    width: 1200px;
+    width: 100%;
 }
 
 #kolumna-lewa {
-    width: 400px;
+    flex: 1;
     height: 600px;
+   
 }
 
 #wewnetrzny-header {
     background-color: #9b59b6;
     height: 150px;
-    width: 400px;
+    width: 100%;
 }
 
 #lewa-dol {
     background-color: #3498db;
     height: 450px;
-    width: 400px;
+    width: 100%;
 }
 
 #kolumna-srodek {
     background-color: gold;
-    width: 400px;
+    flex: 1;
     height: 600px;
 }
 
 #kolumna-prawa {
-    width: 400px;
+    flex: 1;
     height: 600px;
 }
 
 #prawa-gora {
     background-color: #2ecc71;
     height: 360px;
-    width: 400px;
+    width: 100%;
 }
 
 #prawa-dol {
     background-color: #e74c3c;
     height: 240px;
-    width: 400px;
+    width: 100%;
 }
 
 footer {
     background-color: #333;
     color: white;
     height: 60px;
-    width: 1200px;
+    width: 100%;
 }
