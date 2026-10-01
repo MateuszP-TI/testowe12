@@ -1,0 +1,58 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.glowny {
+    display: flex;
+    height: 600px;
+    width: 1200px;
+}
+
+#kolumna-lewa {
+    width: 400px;
+    height: 600px;
+}
+
+#wewnetrzny-header {
+    background-color: #9b59b6;
+    height: 150px;
+    width: 400px;
+}
+
+#lewa-dol {
+    background-color: #3498db;
+    height: 450px;
+    width: 400px;
+}
+
+#kolumna-srodek {
+    background-color: gold;
+    width: 400px;
+    height: 600px;
+}
+
+#kolumna-prawa {
+    width: 400px;
+    height: 600px;
+}
+
+#prawa-gora {
+    background-color: #2ecc71;
+    height: 360px;
+    width: 400px;
+}
+
+#prawa-dol {
+    background-color: #e74c3c;
+    height: 240px;
+    width: 400px;
+}
+
+footer {
+    background-color: #333;
+    color: white;
+    height: 60px;
+    width: 1200px;
+}
